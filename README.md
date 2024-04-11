@@ -1,5 +1,5 @@
 # CS305 - Project 5
-This project is a mock version of the travelling sales problem, in which I implement different algorithms and strategies to solve the problem.
+This project is a mock version of the traveling sales problem, in which I implement different algorithms and strategies to solve the problem.
 
 ## Licensing 
 MIT License in use
